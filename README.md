@@ -51,6 +51,6 @@ This analysis helps decision-makers:
 - Route Cost Analysis
 - Low Stock SKU Table
 
----
-👩‍💻 **Portfolio Project by** **Marwa Samy** · [GitHub](https://github.com/marwa23-rgb)
+## 👩‍💻 Author
 
+**Marwa Samy** · [GitHub](https://github.com/marwa23-rgb)
