@@ -15,12 +15,6 @@ Improve visibility into inventory performance, supplier quality, lead times, shi
 - Used SQL aggregations and window functions
 - Designed a Power BI dashboard structure for supply chain monitoring
 
-## 🛠️ Tools
-- MySQL
-- SQL
-- Power BI
-- CSV / Excel
-
 ## 📊 Key KPIs
 | KPI | Description |
 |---|---|
@@ -32,24 +26,6 @@ Improve visibility into inventory performance, supplier quality, lead times, shi
 | Average Lead Time | Supplier performance indicator |
 | Shipping Cost | Transportation efficiency indicator |
 
-## 📁 Project Structure
-```text
-Supply-Chain-Inventory-Intelligence/
-├── data/
-│   └── supply_chain_data.csv
-├── sql/
-│   ├── 01_data_exploration.sql
-│   ├── 02_inventory_analysis.sql
-│   ├── 03_supplier_analysis.sql
-│   ├── 04_transportation_analysis.sql
-│   └── 05_kpi_queries.sql
-├── dashboard/
-│   └── POWER_BI_GUIDE.md
-├── images/
-│   └── dashboard_preview.png
-└── README.md
-```
-
 ## 💡 Business Impact
 This analysis helps decision-makers:
 - Prioritize replenishment for low-stock and high-demand SKUs
@@ -58,7 +34,7 @@ This analysis helps decision-makers:
 - Identify efficient shipping routes
 - Improve sourcing and inventory decisions
 
-## 📈 Power BI Dashboard Recommendations
+## Power BI Dashboard 
 ### KPI Cards
 - Total Revenue
 - Total Units Sold
