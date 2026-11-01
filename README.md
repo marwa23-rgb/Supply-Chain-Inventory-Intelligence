@@ -52,5 +52,5 @@ This analysis helps decision-makers:
 - Low Stock SKU Table
 
 ---
-👩‍💻 **Portfolio Project by **Marwa Samy** · [GitHub](https://github.com/marwa23-rgb)
+👩‍💻 **Portfolio Project by** **Marwa Samy** · [GitHub](https://github.com/marwa23-rgb)
 
